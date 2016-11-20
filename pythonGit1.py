@@ -1,2 +1,2 @@
 n = '6'
-print n
+print n + 2
